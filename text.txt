@@ -1,1 +1,4 @@
-Heyy
+Welcome to Golang.
+ This is file hanling in Go.
+ Go is a very versatile language.
+ Go is Google's official language.
